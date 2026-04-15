@@ -1,9 +1,11 @@
 🦠 COVID Data Analysis – Global Health Expansion Strategy
 
 📋 Descripción del proyecto
+
 Análisis global de datos de COVID-19 orientado a identificar patrones de incidencia y cobertura de vacunación por región, con el objetivo de recomendar una estrategia de expansión de laboratorios y centros de vacunación basada en datos demográficos y epidemiológicos.
 
 🎯 Objetivo
+
 Determinar qué países presentan mayor necesidad de infraestructura sanitaria, combinando métricas de incidencia, cobertura de vacunación y nivel de desarrollo humano, para optimizar la asignación de recursos sanitarios donde el impacto potencial sea mayor.
 
 🔍 Principales hallazgos
