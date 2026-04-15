@@ -34,6 +34,25 @@ Determinar qué países presentan mayor necesidad de infraestructura sanitaria, 
 
 ## 📁 Estructura del repositorio
 
+```
+COVID-Data-Analysis/
+│
+├── data/
+│   ├── data_latinoamerica.csv  *(no incluido por tamaño)*
+│   └── DatosFiltrados.csv
+│
+├── notebooks/
+│   └── PIDA_M4_Nicolas_Acha.ipynb
+│
+├── powerbi/
+│   └── COVID_Expansion_Laboratorios.pbix
+│
+├── docs/
+│   └── DA_Acha_Nicolas_informePI.pdf
+│
+└── README.md
+```
+
 > ⚠️ El dataset original `data_latinoamerica.csv` no está incluido en el repositorio por su tamaño. Podés descargarlo [aquí](https://drive.google.com/file/d/18FGvT2x1nqA5TQ22P5FyJ5eLXlHprqzj/view).
 
 ---
